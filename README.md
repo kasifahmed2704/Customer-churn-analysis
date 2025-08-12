@@ -90,9 +90,9 @@ Contains:
 
 ## 📊 Visual Highlights  
 
-![Churn by Contract Type](assets/contract_type_chart.png)  
-![Churn by Payment Method](assets/payment_method_chart.png)  
-![Tenure vs Churn Rate](assets/tenure_chart.png)  
+![Churn by Contract Type](https://github.com/kasifahmed2704/Customer-churn-analysis/blob/bbe3488c2ce8da6d844265d5aee4068527108779/contract_type_chart.png)  
+![Churn by Payment Method](https://github.com/kasifahmed2704/Customer-churn-analysis/blob/bbe3488c2ce8da6d844265d5aee4068527108779/payment_method_chart.png)  
+![Tenure vs Churn Rate](https://github.com/kasifahmed2704/Customer-churn-analysis/blob/bbe3488c2ce8da6d844265d5aee4068527108779/tenure_chart.png)  
 
 ---
 
